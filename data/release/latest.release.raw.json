@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9872939,
       "digest": "sha256:44b3e46ecbd200010d953aa70e4efd67901f20ee9370da1a57a9dd882f78dbfd",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-04T18:17:52Z",
       "updated_at": "2026-10-04T18:17:53Z",
       "browser_download_url": "https://github.com/brunoluiz/xpdig/releases/download/v1.26.0/xpdig_Linux_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11224721,
       "digest": "sha256:68eac3eab3f06ed5e252228fb97ec10f1cd48e295b565762acf9a0cf1cd5fe22",
-      "download_count": 88,
+      "download_count": 100,
       "created_at": "2026-10-04T18:17:52Z",
       "updated_at": "2026-10-04T18:17:53Z",
       "browser_download_url": "https://github.com/brunoluiz/xpdig/releases/download/v1.26.0/xpdig_Linux_x86_64.tar.gz"
