@@ -14,11 +14,11 @@ x install xpdig
 
 ## Code insight
 
-Total: **4,798** lines of code across **38** files in the top 5 languages.
+Total: **5,020** lines of code across **39** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,415 | 179 | 370 | 27 |
+| Go | 2,637 | 189 | 393 | 28 |
 | Json | 2,187 | 0 | 0 | 3 |
 | Yaml | 162 | 3 | 0 | 6 |
 | Toml | 18 | 0 | 2 | 1 |
@@ -32,27 +32,27 @@ Total: **4,798** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.26.0` (2026-10-04)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-11-10
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 48 · **Forks**: 6 · **Open issues**: 5 · **Contributors**: 3
+- **Stars**: 48 · **Forks**: 6 · **Open issues**: 5 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 33 · **Open PRs**: 6 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 232
+- **Releases**: 42 · **Merged PRs**: 34 · **Open PRs**: 5 · **Closed issues**: 4 · **Open issues**: 1 · **Commits**: 233
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 1 | 0 | 1 | 1 | 1 | 3 |
-| 90d | 2026-08-12 | 1 | 0 | 1 | 1 | 1 | 3 |
-| last180d | 2026-05-14 | 5 | 1 | 5 | 2 | 1 | 4 |
-| 360d | 2025-11-15 | 7 | 7 | 6 | 2 | 1 | 22 |
-| last720d | 2024-11-20 | 42 | 33 | 6 | 4 | 1 | 232 |
+| 30d | 2026-10-12 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-12 | 1 | 1 | 0 | 1 | 1 | 4 |
+| 90d | 2026-08-13 | 1 | 1 | 0 | 1 | 1 | 4 |
+| last180d | 2026-05-15 | 5 | 2 | 4 | 2 | 1 | 5 |
+| 360d | 2025-11-16 | 7 | 8 | 5 | 2 | 1 | 23 |
+| last720d | 2024-11-21 | 42 | 34 | 5 | 4 | 1 | 233 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for xpdig lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:43:08Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:12:47Z._
